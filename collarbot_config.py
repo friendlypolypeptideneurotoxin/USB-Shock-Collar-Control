@@ -1,5 +1,7 @@
-## This is free and unencumbered software released into the public domain. 
-## see LICENSE file or https://unlicense.org/ for full text of license.
+## This code is released into the public domain under the cc0 license.
+## see LICENSE file included in this repository or http://creativecommons.org/publicdomain/zero/1.0/ for full text of license.
+
+## PLEASE NOTE: this code was forked from smouldery/shock-collar-control, no guarantees are made about the cohesiveness of comments or functionality of legacy code. 
 
 # command character (useful when there's multiple bots, default '!')
 # for now, must be ONE character long ONLY otherwise everything breaks!
